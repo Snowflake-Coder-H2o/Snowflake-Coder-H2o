@@ -1,9 +1,5 @@
 ### I'm Snowflake 👋
 
-<!--
-
-
-Here are some ideas to get you started: 
 
 
 -I'm currently working on: Making Blooket hacks. Also Collaberating with the creators of Blacket. 
