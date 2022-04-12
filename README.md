@@ -17,4 +17,4 @@
 
 **-Fun Fact: I'm a nice person until you make me mad. 
 
-**![Stats]*(https://github-readme-stats.vercel.app/api?username=Snowflake-Coder-H2o&count_private=true&show_icons=true&theme=dark)
+![Stats]*(https://github-readme-stats.vercel.app/api?username=Snowflake-Coder-H2o&count_private=true&show_icons=true&theme=dark)
