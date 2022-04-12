@@ -15,3 +15,5 @@
 -How to reachh me?: My discord is Snowflake-Coder-H2o#
 
 -Fun Fact: I'm a nice person until you make me mad. 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ZasticBradyn&count_private=true&show_icons=true&theme=dark)
