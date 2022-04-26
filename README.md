@@ -3,7 +3,7 @@
 
 
 **-I'm currently working on: Making Blooket hacks. Also Collaberating with the creators of Blacket. The people include 
--@Xotic @ZasticBradyn @BlooketIsLife @Trembling @Penguinblook**
+-@Xotic @notzastic @BlooketIsLife @Trembling @Penguinblook**
 
 **-I'm currently learning/teaching: Myself how to code**
 
